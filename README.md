@@ -1,4 +1,8 @@
 # Manual-Testing-on-Financial-app
+
+## Overview:
+### The test case document outlines various scenarios for testing the login functionality of an application. It includes positive test cases, such as successful login with valid credentials, and negative test cases, such as incorrect username or password, empty fields, and locked accounts. The document also covers security and usability aspects, including handling SQL injection attempts, session expiration, and password visibility toggle. Additionally, it tests system behavior under different conditions, such as case sensitivity, special characters, and multiple failed login attempts. These test cases ensure the login system is secure, user-friendly, and functions correctly under various conditions.
+
 ## TestCases:
 ![TC1](https://github.com/user-attachments/assets/af88243f-7c14-4537-95df-659343738568)
 
